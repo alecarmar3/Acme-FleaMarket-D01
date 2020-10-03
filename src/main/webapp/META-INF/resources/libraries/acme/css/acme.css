@@ -21,7 +21,7 @@ label {
 .form-control:disabled, 
 .form-control[readonly] {
 	border: 0px;
-	/* background-color: #fafffb; */  	
+	/* background-color: #fffff; */  	
 }
 
 .navbar-dark .navbar-nav .nav-link {
